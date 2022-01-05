@@ -1,0 +1,51 @@
+h1 {
+  font-size: 80px;
+}
+p {
+  font-size: 20px;
+}
+body {
+  margin: 0;
+  text-align: center;
+  font-family: serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.insta {
+  height: 20px;
+  width: 20px;
+}
+.yt {
+  height: 20px;
+  width: 20px;
+}
+.web {
+  height: 20px;
+  width: 20px;
+}
+.website {
+  height: 100px;
+}
+.game {
+  height: 100px;
+}
+.bottom-container {
+  background-color: lightsalmon;
+  color: red;
+}
