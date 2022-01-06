@@ -60,3 +60,24 @@ hr {
   background-color: lightsalmon;
   color: red;
 }
+.btn { 
+  margin-bottom: 20px;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28; 
+  border-radius: 28px; 
+  font-family: Arial; 
+  color: #26f3f7; 
+  font-size: 20px; 
+  background: #3498db; 
+  padding: 10px 20px 10px 20px; 
+  text-decoration: none;
+  } 
+.btn:hover { 
+  background: #ff000d; 
+  background-image: -webkit-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -moz-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -ms-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: -o-linear-gradient(top, #ff000d, #ff205b); 
+  background-image: linear-gradient(to bottom, #ff000d, #ff205b); 
+  text-decoration: none; 
+}
