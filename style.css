@@ -9,7 +9,11 @@ body {
   text-align: center;
   font-family: serif;
 }
-
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 6%;
+}
 .top-container {
   background-color: #E4F9F5;
   position: relative;
