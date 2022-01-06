@@ -21,6 +21,12 @@ hr {
   border-bottom: none;
   width: 6%;
 }
+a {
+  text-decoration: none;
+}
+a:hover {
+color: #FF0000;
+}
 .top-container {
   background-color: #E4F9F5;
   position: relative;
